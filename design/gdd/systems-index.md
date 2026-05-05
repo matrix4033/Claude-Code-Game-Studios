@@ -113,19 +113,19 @@ Polish
 | S2 | 角色数据模型 | 🔧 | MVP | Designed |
 | S3 | Delta映射表 | ✨ | MVP | Designed |
 | S4 | 日周期时间系统 | 🔧 | MVP | Designed |
-| S5 | LLM客户端 | 🔄 | MVP | Not Started |
-| S6 | 叙事Prompt构建器 | ✨ | MVP | Not Started |
-| S7 | 短期目标链 | 🔧 | MVP | Not Started |
-| S8 | 位置碰撞检测 | 🔧 | MVP | Not Started |
-| S9 | 目标→位置引力 | ✨ | MVP | Not Started |
-| S10 | Agent决策系统 | 🔧 | MVP | Not Started |
-| S11 | 认知隔离引擎 | 🔧 | MVP | Not Started |
-| S12 | 事件链记忆系统 | ✨ | MVP | Not Started |
-| S13 | 地图渲染 | 🔧 | VS | Not Started |
-| S14 | EventPanel | 🔧 | VS | Not Started |
-| S15 | 玩家介入 | 🔄 | VS | Not Started |
-| S16 | 视角切换 | ✨ | VS | Not Started |
-| S17 | 存档系统 | 🔄 | VS | Not Started |
+| S5 | LLM客户端 | 🔄 | MVP | Designed |
+| S6 | 叙事Prompt构建器 | ✨ | MVP | Designed |
+| S7 | 短期目标链 | 🔧 | MVP | Designed |
+| S8 | 位置碰撞检测 | 🔧 | MVP | Designed |
+| S9 | 目标→位置引力 | ✨ | MVP | Designed |
+| S10 | Agent决策系统 | 🔧 | MVP | Designed |
+| S11 | 认知隔离引擎 | 🔧 | MVP | Designed |
+| S12 | 事件链记忆系统 | ✨ | MVP | Designed |
+| S13 | 地图渲染 | 🔧 | VS | Designed |
+| S14 | EventPanel | 🔧 | VS | Designed |
+| S15 | 玩家介入 | 🔄 | VS | Designed |
+| S16 | 视角切换 | ✨ | VS | Designed |
+| S17 | 存档系统 | 🔄 | VS | Designed |
 
 ---
 
