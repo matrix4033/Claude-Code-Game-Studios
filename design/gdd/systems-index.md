@@ -109,7 +109,7 @@ Polish
 
 | # | System | 策略 | Tier | Status |
 |---|--------|------|------|--------|
-| S1 | 素材库加载器 | ✨ | MVP | Not Started |
+| S1 | 素材库加载器 | ✨ | MVP | Designed |
 | S2 | 角色数据模型 | 🔧 | MVP | Not Started |
 | S3 | Delta映射表 | ✨ | MVP | Not Started |
 | S4 | 日周期时间系统 | 🔧 | MVP | Not Started |
