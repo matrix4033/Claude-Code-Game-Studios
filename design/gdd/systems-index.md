@@ -111,7 +111,7 @@ Polish
 |---|--------|------|------|--------|
 | S1 | 素材库加载器 | ✨ | MVP | Designed |
 | S2 | 角色数据模型 | 🔧 | MVP | Designed |
-| S3 | Delta映射表 | ✨ | MVP | Not Started |
+| S3 | Delta映射表 | ✨ | MVP | Designed |
 | S4 | 日周期时间系统 | 🔧 | MVP | Not Started |
 | S5 | LLM客户端 | 🔄 | MVP | Not Started |
 | S6 | 叙事Prompt构建器 | ✨ | MVP | Not Started |
